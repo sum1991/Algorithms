@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/sorted_element_rotated.js"
+            "program": "${workspaceFolder}/count_rotations.js"
         }
     ]
 }
